@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @usamajutt93u
-- 👀 I’m interested in arduino based IoT. Machine Designing using coding. Testing of machines etc.
-- 🌱 I’m currently working on Arduion, Matlab, solidworks.
-- 💞️ I’m looking to collaborate on Arduino Based Programming
+- 👀 I’m DevOps Engineer.
+
 - 📫 How to reach me? Just Give me a text here +9710554008527
 
 <!---
